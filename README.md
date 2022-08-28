@@ -40,6 +40,11 @@ The main sections of the Product are as follows:
 
 - FIGMA: 
 
+## Tech-Stack:
+    - Backend: NodeJs
+    - DB: HyperDB
+    - DesignTool - Figma
+
 ## Team (TriGeeks)
 Priyank Shah, Hetal Gantara, Pranjal Goyal
 
