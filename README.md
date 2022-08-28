@@ -12,6 +12,7 @@ A Deep Explanation with visuals is provided in the UI Section.
 
 ## Sections of UI
 The main sections of the Product are as follows:
+
 - **Dashboard**
     - It provides the overall outlook of the recruitment process.
     - Summaries of each section such as no of joining candidates, number of vacancies for a job, the candidates currently in progress, etc are provided in the dashboard.
