@@ -58,7 +58,7 @@ Search-Example-2: ```In this example we are just searching based on skills```
 
 ## Important Links:
 
-- FIGMA: 
+- FIGMA: https://www.figma.com/proto/omR8NA1EeF4FcY6lPoPovX/Untitled?page-id=0%3A1&node-id=1%3A11758&viewport=1432%2C123%2C0.14&scaling=scale-down&starting-point-node-id=1%3A11758
 
 ## Tech-Stack:
     - Backend: NodeJs
