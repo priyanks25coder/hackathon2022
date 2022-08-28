@@ -1,17 +1,17 @@
 # Hackathon-2022
 
-# Problem Statement:
+## Problem Statement:
 As a hiring manager it can be annoying to search linkedin and github accounts while looking for talent.
 
 (Name needed)
-# Pitch (Solution): 
+## Pitch (Solution): 
 Our solution provides a One-Stop solution for hiring talent. Right from applying to a Job Post to setting up interview and assigning task. 
 
-# Important Links:
+## Important Links:
 
 - FIGMA: 
 
-# Sections of UI
+## Sections of UI
 The main sections of the Product are as follows:
 - Dashboard
     - It provides the overall outlook of the recruitment process.
@@ -34,9 +34,9 @@ The main sections of the Product are as follows:
 - Message Section
     - This section provides the ability to communicate with the candidates. In this way, it is a one-stop solution for managers to communicate and update candidates about their progress.
 
-# Backend Solution: (Search)
+## Backend Solution: (Search)
 
-# Team
+## Team
 
 
-# 
+##
