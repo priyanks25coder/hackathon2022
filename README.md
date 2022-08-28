@@ -16,6 +16,7 @@ The main sections of the Product are as follows:
 - **Dashboard**
     - It provides the overall outlook of the recruitment process.
     - Summaries of each section such as no of joining candidates, number of vacancies for a job, the candidates currently in progress, etc are provided in the dashboard.
+    - ![](https://github.com/priyanks25coder/hackathon2022/blob/main/images/3_Dashboard.png?raw=true)
     
 - **Job Section**
     - This section provides a clear vision of the number of jobs in which hiring is going on along with its detail. Also, jobs can be added or removed.
