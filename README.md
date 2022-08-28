@@ -5,9 +5,10 @@ As a hiring manager it can be annoying to search linkedin and github accounts wh
 
 ## Pitch (Solution):
 HireMe provides a One-Stop solution to Hiring Talent.
-HireMe has a very Simple and Beautiful UI divided into appropiate sections to handle all the levels of hiring, Right from the Job creation to the Interview Conducting State of Candidate.
-It also provides a skill based filtering search that can help to filter candidates based on relevant skills.
+It has a very Simple and Beautiful UI divided into appropiate sections to handle all the levels of hiring, Right from the Job creation to the Interview Conducting State of Candidate.
+It also provides a skill based filtering search that can help to filter candidates based on relevant
 
+A Deep Explaination with visual in provided in the UI Section.
 
 ## Sections of UI
 The main sections of the Product are as follows:
@@ -33,6 +34,7 @@ The main sections of the Product are as follows:
     - This section provides the ability to communicate with the candidates. In this way, it is a one-stop solution for managers to communicate and update candidates about their progress.
 
 ## Backend Solution: (Search)
+- We are using NodeJs on Backend along with HyperDb as a Database. In this we have implemented a search filter which is based on the skills.
 
 ## Important Links:
 
