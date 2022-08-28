@@ -1,15 +1,13 @@
 # Hackathon-2022
 
 ## Problem Statement:
-As a hiring manager it can be annoying to search linkedin and github accounts while looking for talent.
+As a hiring manager it can be annoying to search linkedin and github accounts while looking for talent.Present a idea that makes finding developers easier for hiring managers.
 
-(Name needed)
-## Pitch (Solution): 
-Our solution provides a One-Stop solution for hiring talent. Right from applying to a Job Post to setting up interview and assigning task. 
+## Pitch (Solution):
+HireMe provides a One-Stop solution to Hiring Talent.
+HireMe has a very Simple and Beautiful UI divided into appropiate sections to handle all the levels of hiring, Right from the Job creation to the Interview Conducting State of Candidate.
+It also provides a skill based filtering search that can help to filter candidates based on relevant skills.
 
-## Important Links:
-
-- FIGMA: 
 
 ## Sections of UI
 The main sections of the Product are as follows:
@@ -36,7 +34,12 @@ The main sections of the Product are as follows:
 
 ## Backend Solution: (Search)
 
-## Team
+## Important Links:
 
+- FIGMA: 
 
-##
+## Team (TriGeeks)
+Priyank Shah, Hetal Gantara, Pranjal Goyal
+
+## Mentions
+We would like to thank Dennis Ivy for conducting this Hackathon.
