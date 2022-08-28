@@ -6,7 +6,7 @@ As a hiring manager, it can be annoying to search LinkedIn and GitHub accounts w
 ## Pitch (Solution):
 HireMe provides a One-Stop solution for Hiring Talent.
 It has a very Simple and Beautiful UI divided into appropriate sections to handle all the levels of hiring, Right from the Job creation to the Interview Conducting State of the Candidate.
-It also provides a skill-based filtering search that can help to filter candidates based on relevant
+It also provides a skill-based filtering search that can help to filter candidates based on relevant skills.
 
 A Deep Explanation with visuals is provided in the UI Section.
 
