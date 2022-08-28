@@ -40,6 +40,8 @@ The main sections of the Product are as follows:
 - We are using NodeJs on the Backend along with HyperDb as a Database. In this, we have implemented a search filter that is based on the skills of the candidate.
 - The search can be seen in the UI prototype at the top.
 
+![Search-Example][]
+
 ## Important Links:
 
 - FIGMA: 
