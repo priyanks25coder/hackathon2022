@@ -30,6 +30,8 @@ The main sections of the Product are as follows:
     - This section can help in understanding various charts and graphs on our hiring process.
     - It can help in analyzing data such as (Reason of Rejection, Rejection vs No of Candidates Placed, Analysing the Social Platforms where candidates have applied, etc.)
 
+![Analytics]()
+
 - **Message Section**
     - This section provides the ability to communicate with the candidates. In this way, it is a one-stop solution for managers to communicate and update candidates about their progress.
 
@@ -40,8 +42,12 @@ The main sections of the Product are as follows:
 - We are using NodeJs on the Backend along with HyperDb as a Database. In this, we have implemented a search filter that is based on the skills of the candidate.
 - The search can be seen in the UI prototype at the top.
 
+### Search Example:
+
+Search Example 1: ```In this example we are searching based on First Name as well as Skill```
 ![Search-Example](https://github.com/priyanks25coder/hackathon2022/blob/main/images/SearchExample.jpg?raw=true)
 
+Search-Example-2: ```In this example we are just searching based on skills```
 ![Search-Example-2](https://raw.githubusercontent.com/priyanks25coder/hackathon2022/main/images/SearchExample2.jpg?token=GHSAT0AAAAAABXPXPSGFGS2VPUJCUQK7Y7OYYLV6NQ)
 
 ## Important Links:
