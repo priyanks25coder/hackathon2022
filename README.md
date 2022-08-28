@@ -4,9 +4,9 @@
 As a hiring manager, it can be annoying to search LinkedIn and GitHub accounts while looking for talent. Present an idea that makes finding developers easier for hiring managers.
 
 ## Pitch (Solution):
-HireMe provides a One-Stop solution for Hiring Talent.
-It has a very Simple and Beautiful UI divided into appropriate sections to handle all the levels of hiring, Right from the Job creation to the Interview Conducting State of the Candidate.
-It also provides a skill-based filtering search that can help to filter candidates based on relevant skills.
+**HireMe** provides a One-Stop solution for Hiring Talent.
+- It has a very Simple and Beautiful UI divided into appropriate sections to handle all the levels of hiring, Right from the Job creation to the Interview Conducting State of the Candidate.
+- It also provides a skill-based filtering search that can help to filter candidates based on relevant skills.
 
 A Deep Explanation with visuals is provided in the UI Section.
 
@@ -41,7 +41,7 @@ The main sections of the Product are as follows:
 ![Message](https://github.com/priyanks25coder/hackathon2022/blob/main/images/7_Messages.png?raw=true)
 
 - **Settings Section**
-    - In this section, HM can set up thier profile and toggle some settings such as notification, theme settings.
+    - In this section, HM can set up their profile and toggle some settings such as notification, and theme settings.
 ![Settings](https://github.com/priyanks25coder/hackathon2022/blob/main/images/8_Settings.png?raw=true)
 
 ## Backend Solution: (Search)
@@ -58,7 +58,7 @@ Search-Example-2: ```In this example we are just searching based on skills```
 
 ## Important Links:
 
-- FIGMA: https://www.figma.com/proto/omR8NA1EeF4FcY6lPoPovX/Untitled?page-id=0%3A1&node-id=1%3A11758&viewport=1432%2C123%2C0.14&scaling=scale-down&starting-point-node-id=1%3A11758
+- **FIGMA Prototype**: https://www.figma.com/proto/omR8NA1EeF4FcY6lPoPovX/Untitled?page-id=0%3A1&node-id=1%3A11758&viewport=1432%2C123%2C0.14&scaling=scale-down&starting-point-node-id=1%3A11758
 
 ## Tech-Stack:
     - Backend: NodeJs
