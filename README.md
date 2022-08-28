@@ -33,7 +33,6 @@ The main sections of the Product are as follows:
 - **Analytics Section**
     - This section can help in understanding various charts and graphs on our hiring process.
     - It can help in analyzing data such as (Reason of Rejection, Rejection vs No of Candidates Placed, Analysing the Social Platforms where candidates have applied, etc.)
-
 ![Analytics](https://github.com/priyanks25coder/hackathon2022/blob/main/images/6_Analytics.png?raw=true)
 
 - **Message Section**
