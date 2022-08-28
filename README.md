@@ -40,7 +40,9 @@ The main sections of the Product are as follows:
 - We are using NodeJs on the Backend along with HyperDb as a Database. In this, we have implemented a search filter that is based on the skills of the candidate.
 - The search can be seen in the UI prototype at the top.
 
-![Search-Example][]
+![Search-Example][https://github.com/priyanks25coder/hackathon2022/blob/main/images/SearchExample.jpg?raw=true]
+
+![Search-Example-2][https://raw.githubusercontent.com/priyanks25coder/hackathon2022/main/images/SearchExample2.jpg?token=GHSAT0AAAAAABXPXPSGFGS2VPUJCUQK7Y7OYYLV6NQ]
 
 ## Important Links:
 
