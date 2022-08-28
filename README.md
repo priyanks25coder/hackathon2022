@@ -33,6 +33,9 @@ The main sections of the Product are as follows:
 - **Message Section**
     - This section provides the ability to communicate with the candidates. In this way, it is a one-stop solution for managers to communicate and update candidates about their progress.
 
+- **Settings Section**
+    - In this section, HM can set up thier profile and toggle some settings such as notification, theme settings.
+
 ## Backend Solution: (Search)
 - We are using NodeJs on the Backend along with HyperDb as a Database. In this, we have implemented a search filter that is based on the skills of the candidate.
 - The search can be seen in the UI prototype at the top.
