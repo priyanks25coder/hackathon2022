@@ -55,10 +55,6 @@ Search Example 1: ```In this example we are searching based on First Name as wel
 Search-Example-2: ```In this example we are just searching based on skills```
 ![Search-Example-2](https://raw.githubusercontent.com/priyanks25coder/hackathon2022/main/images/SearchExample2.jpg?token=GHSAT0AAAAAABXPXPSGFGS2VPUJCUQK7Y7OYYLV6NQ)
 
-## Important Links:
-
-- **FIGMA Prototype**: https://www.figma.com/proto/omR8NA1EeF4FcY6lPoPovX/Untitled?page-id=0%3A1&node-id=1%3A11758&viewport=1432%2C123%2C0.14&scaling=scale-down&starting-point-node-id=1%3A11758
-
 ## Tech-Stack:
     - Backend: NodeJs
     - DB: HyperDB
